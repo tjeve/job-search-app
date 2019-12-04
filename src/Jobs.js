@@ -7,7 +7,7 @@ const Jobs = () => {
         <div>
             <div className="App">
                 <header className="App-header">
-                    <h1 className="App-title">Jobs in Atlanta</h1>
+                    <h1 className="App-title">Jobs in Houston</h1>
                     <p className="App-subtitle">Click to explore Jobs</p>
                 </header>
             </div>
